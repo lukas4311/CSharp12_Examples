@@ -5,9 +5,13 @@ VisualStudioVersion = 17.8.34227.203
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimaryConstructors", "PrimaryConstructors\PrimaryConstructors.csproj", "{FA03559A-A23E-440F-99DB-38F78C7B7229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeAlias", "TypeAlias\TypeAlias.csproj", "{A5379806-9B01-42C3-9815-7732C002A8C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeAlias", "TypeAlias\TypeAlias.csproj", "{A5379806-9B01-42C3-9815-7732C002A8C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultValuesLambdaParameters", "DefaultValuesLambdaParameters\DefaultValuesLambdaParameters.csproj", "{FB4909DF-A723-4F4F-8586-8B489C47A84F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefaultValuesLambdaParameters", "DefaultValuesLambdaParameters\DefaultValuesLambdaParameters.csproj", "{FB4909DF-A723-4F4F-8586-8B489C47A84F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InlineArrays", "InlineArrays\InlineArrays.csproj", "{A2CF13C0-EC3B-416D-B098-25D2986EEF1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interceptors", "Interceptors\Interceptors.csproj", "{D111CC10-8B76-4D06-A705-735309684249}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{FB4909DF-A723-4F4F-8586-8B489C47A84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB4909DF-A723-4F4F-8586-8B489C47A84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB4909DF-A723-4F4F-8586-8B489C47A84F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2CF13C0-EC3B-416D-B098-25D2986EEF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CF13C0-EC3B-416D-B098-25D2986EEF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CF13C0-EC3B-416D-B098-25D2986EEF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CF13C0-EC3B-416D-B098-25D2986EEF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D111CC10-8B76-4D06-A705-735309684249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D111CC10-8B76-4D06-A705-735309684249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D111CC10-8B76-4D06-A705-735309684249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D111CC10-8B76-4D06-A705-735309684249}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
