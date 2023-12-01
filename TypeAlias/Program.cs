@@ -10,7 +10,9 @@ class DistanceCalculator(GeoLocation currentLocation)
 {
     public int CalculateDistance(GeoLocation desination)
     {
-        int distance = calculateDistanceAlgo(currentLocation, desination);
+        int distance = CalculateDistanceAlgo(currentLocation, desination);
         return distance;
     }
+
+    private int CalculateDistanceAlgo((int lat, int lng) currentLocation, (int lat, int lng) desination) => throw new NotImplementedException();
 }
