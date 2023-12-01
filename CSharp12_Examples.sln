@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interceptors", "Interceptor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionExpression", "CollectionExpression\CollectionExpression.csproj", "{11C5EB38-3106-49B5-9BF4-1BBE5B1A59B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeProvider", "TimeProvider\TimeProvider.csproj", "{12A5273B-C332-4D55-8685-E070FC788C43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{11C5EB38-3106-49B5-9BF4-1BBE5B1A59B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11C5EB38-3106-49B5-9BF4-1BBE5B1A59B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11C5EB38-3106-49B5-9BF4-1BBE5B1A59B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A5273B-C332-4D55-8685-E070FC788C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A5273B-C332-4D55-8685-E070FC788C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A5273B-C332-4D55-8685-E070FC788C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A5273B-C332-4D55-8685-E070FC788C43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
