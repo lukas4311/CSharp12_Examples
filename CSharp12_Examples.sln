@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionExpression", "Col
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeProvider", "TimeProvider\TimeProvider.csproj", "{12A5273B-C332-4D55-8685-E070FC788C43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncStreams", "AsyncStreams\AsyncStreams.csproj", "{456D816B-EC9C-43CB-8471-A5F4064421F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{12A5273B-C332-4D55-8685-E070FC788C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12A5273B-C332-4D55-8685-E070FC788C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12A5273B-C332-4D55-8685-E070FC788C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456D816B-EC9C-43CB-8471-A5F4064421F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456D816B-EC9C-43CB-8471-A5F4064421F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456D816B-EC9C-43CB-8471-A5F4064421F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456D816B-EC9C-43CB-8471-A5F4064421F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
